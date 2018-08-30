@@ -1,12 +1,12 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://claudiaguerreros.github.io/juliososa/"
 languageCode = "en-us"
 themesDir="themes"
+publishDir="docs"
+title = "Fondo Julio Sosa Archivo histórico"
 theme = "forty"
 
-title = "Julio Sosa"
-
-
+languageCode = "en-us"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
