@@ -21,8 +21,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "Fondo Julio Sosa"
+  description = "Archivo Histórico de la Universidad Iberoamericana Torreón"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -34,27 +34,27 @@ disqusShortname = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    heading = "La página no puede ser localizda"
+    text = "Visite esta página [this page](/)"
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
-    menu = "Menu"
+    title = "Semblanza"
+    subtitle = "Fotografías"
+    menu = "Menú"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "Home"
+      name = "Inicio"
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
+      name = "Fotografías"
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
+      name = "Fotografía"
       url = "blogs/ipsum"
 
     [[params.navigation.links]]
@@ -70,12 +70,12 @@ disqusShortname = ""
 
     # Button Style 1
     [[params.navigation.button1]]
-      name = "Get Started"
+      name = "Inicia el recorrido"
       url = "blogs"
 
     # Button Style 2
     [[params.navigation.button2]]
-      name = "Log In"
+      name = "Acceso"
       url = "#"
 
 
@@ -83,9 +83,9 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
-    buttonText = "Get Started"
+    title = "Julio Sosa"
+    subtitle = "La Laguna en la mirada de Julio Sosa."
+    buttonText = "Inicia"
 
 
   # Tiles Section
@@ -94,10 +94,10 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Elvira"
+      subtitle = "Su majestad primera Feria del algodón Torreón 1925"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/elvira"
 
     [[params.tiles.showcase]]
       title = "Tempus"

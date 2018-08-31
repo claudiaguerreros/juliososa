@@ -2,7 +2,7 @@
 title: "Elvira I"
 description: ""
 slug: "elvira"
-image: elvira.jpg
+image: pic01.jpg
 keywords: ""
 categories: 
     - ""
@@ -11,4 +11,4 @@ date: 2018-08-30T21:28:43-05:00
 draft: false
 ---
 
-Elvira I, su majestad feria de Torreón 1925
+Elvira I, su majestad feria de TorreÃ³n 1925
