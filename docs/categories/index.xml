@@ -1,22 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Fondo Julio Sosa Archivo hist�rico</title>
+    <title>Fondo Julio Sosa Archivo hist�rico</title>
     <link>https://claudiaguerreros.github.io/juliososa/categories/</link>
-    <description>Recent content in Categories on Fondo Julio Sosa Archivo hist�rico</description>
+    <description>Recent content on Fondo Julio Sosa Archivo hist�rico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 21:28:43 -0500</lastBuildDate>
     
 	<atom:link href="https://claudiaguerreros.github.io/juliososa/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://claudiaguerreros.github.io/juliososa/categories/</link>
+      <title>Elvira I</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/elvira/</link>
+      <pubDate>Thu, 30 Aug 2018 21:28:43 -0500</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/elvira/</guid>
+      <description>Elvira I, su majestad feria de Torreón 1925</description>
+    </item>
+    
+    <item>
+      <title>Elvira I</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/elvira/</link>
+      <pubDate>Thu, 30 Aug 2018 21:28:43 -0500</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/elvira/</guid>
+      <description>Elvira I, su majestad feria de Torreón 1925</description>
+    </item>
+    
+    <item>
+      <title>Aliquam</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/aliquam/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://claudiaguerreros.github.io/juliososa/categories/</guid>
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/aliquam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aliquam</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/aliquam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempus</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempus</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/tempus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julio Sosa</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/julio/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/julio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julio Sosa</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/julio/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/julio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magna</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/magna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magna</title>
+      <link>https://claudiaguerreros.github.io/juliososa/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://claudiaguerreros.github.io/juliososa/blogs/magna/</guid>
       <description></description>
     </item>
     

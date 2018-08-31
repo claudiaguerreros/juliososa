@@ -35,12 +35,12 @@ disqusShortname = ""
   # 404 error customization
   [params.error404]
     heading = "La página no puede ser localizda"
-    text = "Visite esta página [this page](/)"
+    text = "Visite esta página [https://claudiaguerreros.github.io/juliososa/](/)"
 
   # Navigation Section
   [params.navigation]
-    title = "Semblanza"
-    subtitle = "Fotografías"
+    title = "Fotografías"
+    subtitle = ""
     menu = "Menú"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -54,8 +54,8 @@ disqusShortname = ""
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Fotografía"
-      url = "blogs/ipsum"
+      name = "J.Sosa"
+      url = "blogs/jsosa"
 
     [[params.navigation.links]]
       name = "Elements"
@@ -94,40 +94,42 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Elvira"
-      subtitle = "Su majestad primera Feria del algodón Torreón 1925"
+      title = "Laguneras mexicanas y españolas"
+      subtitle = "Señoritas que tomaron parte en las fiestas de la feria del algodón de Torreón de 1925"
       image = "pic01.jpg"
-      url = "blogs/elvira"
+      url = "blogs/etnias"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Ganadería"
+      subtitle = "Raza Luisa, propiedad de Edmundo Garza, feria del algodón de Torreón en 1925"
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "blogs/toro"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
+      title = "Agua"
+      subtitle = "De agua las señoritas que participaron en la feria del algodón de Torreón de 1925"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/agua"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
+      title = "Julio Sosa"
       subtitle = "Nisl Sed Aliquam"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/jsosa"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Rebozo"
+      subtitle = "Vestuario del estudio de Julio Sosa"
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/jsosa"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
+      title = "CFE"
+      subtitle = "Portal de la feria instalado por la Compañía de Luz"
       image = "pic06.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/luz"
+
+
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -140,21 +142,20 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
-    url = "blogs"
+    title = "Archivo Histórico"
+    subtitle = """Fondo de Julio Sosa. 
+    Más de 40,000 negativos de la autoría de Julio Sosa correspondientes a los años de 1920 y 1950. 
+    Un patrimonio cultural de interés historiográfico para la época postrevolucionaria en la Laguna y norte de México. 
+    Universidad Iberoamericana Torreón."""
 
+    buttonText = "Inicia"
+    url = "blogs"
 
   # Contact section
   [params.contact]
     enable = true
-    buttonSend = "Send message"
-    buttonClear = "Clear"
+    buttonSend = "Envía un mensaje"
+    buttonClear = "Borrar"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -174,22 +175,22 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "cgsguerrero@gmail.com"
 
     [[params.contact.phone]]
-    title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    title = "Teléfono"
+    phone = "(052) 871-7051010"
 
     [[params.contact.address]]
-    title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    title = "Dirección"
+    street = "Bulevard Iberoamericana "
+    city = "Torreón Coahuila"
+    country = "México"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "Universidad Iberoamericana Torreón"
 
     # Uses font awesome icons
     [[params.footer.social]]
@@ -221,3 +222,4 @@ disqusShortname = ""
       text = "Design: "
       url= "https://www.html5up.net"
       alt = "HTML5 UP"
+
