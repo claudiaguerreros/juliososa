@@ -1,7 +1,7 @@
 ---
-title: "Magna"
+title: "Agua"
 description: "Lorem Etiam Nullam"
-slug: "magna"
+slug: "agua"
 image: pic09.jpg
 keywords: ""
 categories: 
