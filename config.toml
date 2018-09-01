@@ -1,6 +1,6 @@
 # Site settings
 baseURL = "https://claudiaguerreros.github.io/juliososa/"
-languageCode = "es-MX"
+languageCode = "es-mx"
 themesDir="themes"
 publishDir="docs"
 title = "Fondo Julio Sosa Archivo histórico"
