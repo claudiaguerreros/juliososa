@@ -12,3 +12,4 @@ draft: false
 ---
 
 Senoritas que participaron en la feria del algodón Torreón 1925
+![Example image](/img/pic01.jpg)
