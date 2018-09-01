@@ -1,6 +1,6 @@
 # Site settings
 baseURL = "https://claudiaguerreros.github.io/juliososa/"
-languageCode = "en-us"
+languageCode = "es-MX"
 themesDir="themes"
 publishDir="docs"
 title = "Fondo Julio Sosa Archivo histórico"
@@ -147,6 +147,7 @@ disqusShortname = ""
     Más de 40,000 negativos de la autoría de Julio Sosa correspondientes a los años de 1920 y 1950. 
     Un patrimonio cultural de interés historiográfico para la época postrevolucionaria en la Laguna y norte de México. 
     Universidad Iberoamericana Torreón."""
+   
 
     buttonText = "Inicia"
     url = "blogs"

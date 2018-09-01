@@ -1,6 +1,6 @@
 ---
 title: "Agua"
-description: "Lorem Etiam Nullam"
+description: "De agua las señoritas que participaron en la feria del algodón de Torreón de 1925"
 slug: "agua"
 image: pic09.jpg
 keywords: ""
