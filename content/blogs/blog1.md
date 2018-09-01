@@ -13,12 +13,6 @@ draft: false
 
 Senoritas que participaron en la feria del algodón Torreón 1925
 
-un ejemplo
-![Example image](https://claudiaguerreros.github.io/juliososa/img/pic01.jpg)
 
-ejemplo 2
-![Example image](/img/pic01.jpg)
+![Etnias](https://claudiaguerreros.github.io/juliososa/img/pic01.jpg)
 
-![Example image](static/img/pic01.jpg)
-
-![Example image](pic01.jpg)/
