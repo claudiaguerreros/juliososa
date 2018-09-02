@@ -21,8 +21,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Fondo Julio Sosa"
-  description = "Archivo Histórico de la Universidad Iberoamericana Torreón"
+  name = "Fondo Julio Sosa Treviño"
+  description = "Archivo Histórico Juan Agustín de Espinoza, sj, Universidad Iberoamericana Torreón"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -35,7 +35,7 @@ disqusShortname = ""
   # 404 error customization
   [params.error404]
     heading = "La página no puede ser localizda"
-    text = "Visite esta página [https://claudiaguerreros.github.io/juliososa/](/)"
+    text = "Visite esta página [https://claudiaguerreros.github.io/juliososa/]"
 
   # Navigation Section
   [params.navigation]
@@ -58,8 +58,8 @@ disqusShortname = ""
       url = "blogs/jsosa"
 
     [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "Fondo Julio Sosa"
+      url = "FondoSosa.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -316,19 +316,19 @@ disqusShortname = ""
     # For more informtion take a look at the README.
     # To add more blogs just copy and paste the code.
 
-  # Section Type Two
+# Section Type Two
   [params.two]
     enable = true
     title = "Archivo Histórico"
-    subtitle = """Fondo de Julio Sosa. 
-    Más de 40,000 negativos de la autoría de Julio Sosa correspondientes a los años de 1920 y 1950. 
-    Un patrimonio cultural de interés historiográfico para la época postrevolucionaria en la Laguna y norte de México. 
-    Universidad Iberoamericana Torreón."""
-   
+    subtitle = "Fondo de Julio Sosa"
+    
+
 
     buttonText = "Inicia"
     url = "blogs"
 
+
+  
   # Contact section
   [params.contact]
     enable = true
