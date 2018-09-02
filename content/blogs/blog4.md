@@ -1,7 +1,7 @@
 ---
 title: "Chinas poblanas y españolas "
 description: "Sritas que tomaron parte en las fiestas. Grupo en el Casino Feria del algodón . Torreón coahuila"
-slug: "rebozo"
+slug: "etnias"
 image: pic17.jpg
 keywords: ""
 categories: 
@@ -16,4 +16,4 @@ La expresión y la pose de las mujeres, el hecho que vistan diferentes vestuario
 
 Investigación. Casino de la Laguan, colonia española, vestuario de chinas poblanas
 
-![Rebozo](https://claudiaguerreros.github.io/juliososa/img/pic17.jpg)
+![Etnias](https://claudiaguerreros.github.io/juliososa/img/pic17.jpg)

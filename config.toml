@@ -148,10 +148,163 @@ disqusShortname = ""
       image = "pic01.jpg"
       url = "blogs/crinolinas"
    
+    [[params.tiles.showcase]]
+      title = "Compañía de Luz"
+      subtitle = "Portada que da acceso a la Exposición levantada por la Cia de Luz, Feria del algodón 1925"
+      image = "pic06.jpg"
+      url = "blogs/luz"
 
+[[params.tiles.showcase]]
+      title = "Río Nazas y sus puentes"
+      subtitle = "Pabellón de la exposición. Recreación del paisaje lagunero por excelencia"
+      image = "pic15.jpg"
+      url = "blogs/puentes"
 
+[[params.tiles.showcase]]
+      title = "Pabellón de la Jabonera la Esperanza"
+      subtitle = "Paisaje lagunero, río de jabón"
+      image = "pic16.jpg"
+      url = "blogs/jabonera"
 
+[[params.tiles.showcase]]
+      title = "Hilados La Fe"
+      subtitle = "Stand Hilados y Tejidos La Fe"
+      image = "pic21.jpg"
+      url = "blogs/hilados"
 
+[[params.tiles.showcase]]
+      title = "Cervecería Chihuahua"
+      subtitle = "Departamento de la Exposición de la Cervecería Chihuahua"
+      image = "pic23.jpg"
+      url = "blogs/cerveceria"
+
+[[params.tiles.showcase]]
+      title = "Leonor Flores"
+      subtitle = "Leonor Flores de Monterrey. NL autora del himno Lagunero Torreón Coahuila 1925"
+      image = "pic14.jpg"
+      url = "blogs/leonor"
+
+[[params.tiles.showcase]]
+      title = "Estudebaker 1925"
+      subtitle = "Exhibición del automóvil  EstudebaKer Feria del algodón 1925"
+      image = "pic22.jpg"
+      url = "blogs/auto"
+
+[[params.tiles.showcase]]
+      title = "Charros"
+      subtitle = "Grupo de Charros en el Cabaret Feria del Algodón"
+      image = "pic24.jpg"
+      url = "blogs/charros"
+[[params.tiles.showcase]]
+      title = "Bodas de Oro"
+      subtitle = "Aniversario de bodas pareja españoles"
+      image = "pic03.jpg"
+      url = "blogs/bodasoro"
+
+[[params.tiles.showcase]]
+      title = "Mamá y su bebé"
+      subtitle = "Retrato de mamá joven y su pequeña hija"
+      image = "pic09.jpg"
+      url = "blogs/mamabebe"
+
+[[params.tiles.showcase]]
+      title = "Dama en rebozo"
+      subtitle = "Retrato de una joven en rebozo"
+      image = "pic05.jpg"
+      url = "blogs/rebozo"
+[[params.tiles.showcase]]
+      title = "Charro"
+      subtitle = "Charro Lagunero"
+      image = "pic26.jpg"
+      url = "blogs/charro"
+[[params.tiles.showcase]]
+      title = "Toro"
+      subtitle = "3er premio Boby Nacido en Torreón, 5 años de padres importados Raza Luisa. Edmundo Garza Feria del algodón Torreón Coah. 1925 "
+      image = "pic26.jpg"
+      url = "blogs/toro"
+[[params.tiles.showcase]]
+      title = "Novia con sus damas"
+      subtitle = "Estudio fotográfico en sepia, la novia y sus damas de compañía "
+      image = "pic28.jpg"
+      url = "blogs/damas"
+
+[[params.tiles.showcase]]
+      title = "Niña con sombrero"
+      subtitle = "Estudio fotográfico coloreada al óleo "
+      image = "pic32.jpg"
+      url = "blogs/nina"
+
+[[params.tiles.showcase]]
+      title = "Dama al óleo"
+      subtitle = "Estudio fotográfico coloreado al óleo estilo modernista"
+      image = "pic30.jpg"
+      url = "blogs/color"
+
+[[params.tiles.showcase]]
+      title = "Pintura"
+      subtitle = "Dama pintada "
+      image = "pic29.jpg"
+      url = "blogs/pintura"
+
+[[params.tiles.showcase]]
+      title = "Quinceañera"
+      subtitle = "Estudio a color, quince años "
+      image = "pic36.jpg"
+      url = "blogs/quince"
+
+[[params.tiles.showcase]]
+      title = "Primera comunión"
+      subtitle = "Celebración de la primera comunión de un niño"
+      image = "pic27.jpg"
+      url = "blogs/primera"
+
+[[params.tiles.showcase]]
+      title = "Niña en su Primera comunión"
+      subtitle = "Celebración de la primera comunión de una niña"
+      image = "pic31.jpg"
+      url = "blogs/primera2"
+
+[[params.tiles.showcase]]
+      title = "Niña"
+      subtitle = "Retrato de una niña"
+      image = "pic25.jpg"
+      url = "blogs/retratonina"
+
+[[params.tiles.showcase]]
+      title = "Mujer con aureola"
+      subtitle = "Técnica de reservado"
+      image = "pic33.jpg"
+      url = "blogs/laboratorio"
+
+[[params.tiles.showcase]]
+      title = "Señor canoso"
+      subtitle = "Manejo de luz, dinamismo en la foto"
+      image = "pic34.jpg"
+      url = "blogs/movimiento"
+
+[[params.tiles.showcase]]
+      title = "Grupo familiar"
+      subtitle = "Familia española, estudio clásico"
+      image = "pic08.jpg"
+      url = "blogs/familia"
+
+[[params.tiles.showcase]]
+      title = "Grupo en exterior"
+      subtitle = "Con un mando del ejército"
+      image = "pic35.jpg"
+      url = "blogs/militar"
+
+[[params.tiles.showcase]]
+      title = "Foto de boda"
+      subtitle = "Novia con su mamá y hermana"
+      image = "pic10.jpg"
+      url = "blogs/novia"
+
+[[params.tiles.showcase]]
+      title = "Niñas"
+      subtitle = "Fotografía premiada"
+      image = "pic18.jpg"
+      url = "blogs/premio"
 
 
     # You can make more showcases by copy and pasting the code above
@@ -247,4 +400,3 @@ disqusShortname = ""
       text = "Design: "
       url= "https://www.html5up.net"
       alt = "HTML5 UP"
-

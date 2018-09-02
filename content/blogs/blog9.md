@@ -15,4 +15,4 @@ La composición del grupo es la ideal, en triángulo y para lograrlo una de las 
 Investigación... libro de la feria de Torreón
 Capullos de algodón, gotas de agua, rayos de sol, aguadoras... relacionadas con la agricultura de esa época.
 
-![Luz](https://claudiaguerreros.github.io/juliososa/img/pic01.jpg)
+![Crinolinas](https://claudiaguerreros.github.io/juliososa/img/pic01.jpg)

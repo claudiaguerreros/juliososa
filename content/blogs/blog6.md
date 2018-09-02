@@ -15,4 +15,4 @@ La iluminación, la pose de los pies y los brazos y la expresión de las modelos
 Investigación... libro de la feria de Torreón
 Capullos de algodón, gotas de agua, rayos de sol, aguadoras... relacionadas con la agricultura de esa época.
 
-![Luz](https://claudiaguerreros.github.io/juliososa/img/pic20.jpg)
+![Rayos](https://claudiaguerreros.github.io/juliososa/img/pic20.jpg)

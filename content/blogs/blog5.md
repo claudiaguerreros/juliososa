@@ -17,4 +17,4 @@ El excelente manejo de la luz y que gracias a la vestimenta no se perdieran en e
 Investigación... libro de la feria de Torreón
 Capullos de algodón, gotas de agua, rayos de sol, aguadoras... relacionadas con la agricultura de esa época.
 
-![Luz](https://claudiaguerreros.github.io/juliososa/img/pic19.jpg)
+![Capullos](https://claudiaguerreros.github.io/juliososa/img/pic19.jpg)

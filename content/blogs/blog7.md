@@ -15,4 +15,4 @@ Esta toma es difícil por el contraluz de las ventanas, tuvo que usar una luz mu
 Investigación... libro de la feria de Torreón
 Capullos de algodón, gotas de agua, rayos de sol, aguadoras... relacionadas con la agricultura de esa época.
 
-![Luz](https://claudiaguerreros.github.io/juliososa/img/pic04.jpg)
+![Agua](https://claudiaguerreros.github.io/juliososa/img/pic04.jpg)

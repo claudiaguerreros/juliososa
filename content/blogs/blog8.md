@@ -15,4 +15,4 @@ La composición aprovechó la ventaja de la luz que daban los ventalanes y el do
 Investigación... libro de la feria de Torreón
 Capullos de algodón, gotas de agua, rayos de sol, aguadoras... relacionadas con la agricultura de esa época.
 
-![Luz](https://claudiaguerreros.github.io/juliososa/img/pic07.jpg)
+![Aguadoras](https://claudiaguerreros.github.io/juliososa/img/pic07.jpg)
