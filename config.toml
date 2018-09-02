@@ -94,40 +94,64 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Laguneras mexicanas y españolas"
-      subtitle = "Señoritas que tomaron parte en las fiestas de la feria del algodón de Torreón de 1925"
-      image = "pic01.jpg"
+      title = "Elvira I"
+      subtitle = "Su Majestad Elvira I. Reina del Algodón de 1925. Torreón Coahuila"
+      image = "pic11.jpg"
+      url = "blogs/elvira"
+
+    [[params.tiles.showcase]]
+      title = "Elvira y sus princesas"
+      subtitle = "Su Majestad Elvira I Reina del Algodón de 1925. con sus princesas de Torreón, San Pedro, Matamoros, Gómez Palacio y Lerdo Durango. Torreón Coahuila"
+      image = "pic12.jpg"
+      url = "blogs/princesas"
+
+    [[params.tiles.showcase]]
+      title = "Su Majestad Elvira I"
+      subtitle = "Su Majestad Elvira I Reina del Algodón de 1925 de pie, Torreón Caoh."
+      image = "pic13.jpg"
+      url = "blogs/elvira2"
+
+    [[params.tiles.showcase]]
+      title = "Chinas poblanas y españolas "
+      subtitle = "Sritas que tomaron parte en las fiestas. Grupo en el Casino Feria del algodón . Torreón coahuila"
+      image = "pic17.jpg"
       url = "blogs/etnias"
 
-    [[params.tiles.showcase]]
-      title = "Ganadería"
-      subtitle = "Raza Luisa, propiedad de Edmundo Garza, feria del algodón de Torreón en 1925"
-      image = "pic02.jpg"
-      url = "blogs/toro"
+ [[params.tiles.showcase]]
+      title = "Capullos"
+      subtitle = "Sritas que tomaron parte en las fiestas. Grupo en el Casino Feria del algodón . Torreón coahuila"
+      image = "pic19.jpg"
+      url = "blogs/capullos"
 
     [[params.tiles.showcase]]
-      title = "Agua"
-      subtitle = "De agua las señoritas que participaron en la feria del algodón de Torreón de 1925"
-      image = "pic03.jpg"
+      title = "Rayos de sol"
+      subtitle = "Sritas Rayos de Sol en el Casino Torreón 1925"
+      image = "pic20.jpg"
+      url = "blogs/rayos"
+
+    
+[[params.tiles.showcase]]
+      title = "Gotas de agua"
+      subtitle = "Gotas de agua. Sritas que tomaron parte en las fiestas. Grupo en el Casino Feria del algodón . Torreón coahuila"
+      image = "pic04.jpg"
       url = "blogs/agua"
 
     [[params.tiles.showcase]]
-      title = "Julio Sosa"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/jsosa"
+      title = "Grupo de aguadoras"
+      subtitle = "Grupo de aguadoras. Sritas que tomaron parte en las fiestas. Feria del Algodón Torreón Coah. 1925"
+      image = "pic07.jpg"
+      url = "blogs/aguadoras"
 
     [[params.tiles.showcase]]
-      title = "Rebozo"
-      subtitle = "Vestuario del estudio de Julio Sosa"
-      image = "pic05.jpg"
-      url = "blogs/jsosa"
+      title = "Crinolinas"
+      subtitle = "Crinolinas. Sritas que tomaron parte en las fiestas. Feria del algodón 1925"
+      image = "pic01.jpg"
+      url = "blogs/crinolinas"
+   
 
-    [[params.tiles.showcase]]
-      title = "CFE"
-      subtitle = "Portal de la feria instalado por la Compañía de Luz"
-      image = "pic06.jpg"
-      url = "blogs/luz"
+
+
+
 
 
     # You can make more showcases by copy and pasting the code above

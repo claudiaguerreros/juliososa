@@ -1,8 +1,8 @@
 ---
-title: "Toro"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
-slug: "toro"
-image: pic08.jpg
+title: "Su Majestad Elvira I"
+description: "Su Majestad Elvira I Reina del Algodón de 1925 de pie, Torreón Caoh."
+slug: "elvira2"
+image: pic13.jpg
 keywords: ""
 categories: 
     - ""
@@ -10,4 +10,9 @@ categories:
 date: 2017-10-31T22:26:13-05:00
 draft: false
 ---
-![Toro](https://claudiaguerreros.github.io/juliososa/img/pic08.jpg)
+
+La lámpara de luz de tugsteno para dar una ambientación. El lienzo lo utilizaba para sacarla de la oscuridad del fondo, para evitar que fuera como un aparecido. En ese año de 1925 el estudio era en la Morelos y Rodríguez. La manera de acomodar la cola envuelta en lugar de hacerla hacia atrás es una muestra de su creatividad
+
+![Elvira I de pie](https://claudiaguerreros.github.io/juliososa/img/pic13.jpg)
+
+
