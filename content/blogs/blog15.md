@@ -1,6 +1,6 @@
 ---
 title: "Leonor Flores"
-description: "Autora del himono Lagunero Torreón Coahuila 1925"
+description: "Autora del himno Lagunero Torreón Coahuila 1925"
 slug: "leonor"
 image: pic14.jpg
 keywords: ""

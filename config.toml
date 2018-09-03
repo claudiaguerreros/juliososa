@@ -107,6 +107,7 @@ disqusShortname = ""
       image = "pic19.jpg"
       url = "blogs/capullos"
 
+
     [[params.tiles.showcase]]
       title = "Rayos de sol"
       subtitle = "Sritas Rayos de Sol en el Casino Torreón 1925"
