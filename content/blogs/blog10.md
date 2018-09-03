@@ -1,7 +1,7 @@
 ---
 title: "Compañía de Luz"
 description: "Portada que da acceso a la Exposición levantada por la Cia de Luz, Feria del algodón 1925"
-slug: "crinolinas"
+slug: "luz"
 image: pic06.jpg
 keywords: ""
 categories: 
