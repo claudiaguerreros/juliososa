@@ -35,7 +35,7 @@ disqusShortname = ""
   # 404 error customization
   [params.error404]
     heading = "La página no puede ser localizda"
-    text = "Visite esta página [https://claudiaguerreros.github.io/juliososa/]"
+    text = "Visite esta página [Archivo Histórico] (http://itzel.lag.uia.mx/publico/investHisto.php)"
 
   # Navigation Section
   [params.navigation]
@@ -43,7 +43,7 @@ disqusShortname = ""
     subtitle = ""
     menu = "Menú"
     # Optional logo as brand stored in img/
-    # logo = "logo.png"
+    logo = "logo.png"
 
     [[params.navigation.links]]
       name = "Inicio"
