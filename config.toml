@@ -39,7 +39,7 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Fotografías"
+    title = "Muestra fotográfica"
     subtitle = ""
     menu = "Menú"
     # Optional logo as brand stored in img/
@@ -50,7 +50,7 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Fotografías"
+      name = "Detalle, cédula de fotos"
       url = "blogs"
 
     [[params.navigation.links]]
