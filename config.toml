@@ -43,7 +43,7 @@ disqusShortname = ""
     subtitle = ""
     menu = "Menú"
     # Optional logo as brand stored in img/
-    logo = "logo.png"
+    logo = "logo.jpg"
 
     [[params.navigation.links]]
       name = "Inicio"
