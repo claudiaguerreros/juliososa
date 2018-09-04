@@ -115,7 +115,6 @@ disqusShortname = ""
       url = "blogs/rayos"
 
     
-
 [[params.tiles.showcase]]
       title = "Pabellón de la Jabonera la Esperanza"
       subtitle = "Paisaje lagunero, río de jabón"
@@ -143,8 +142,8 @@ disqusShortname = ""
       url = "blogs/charro"
 
 [[params.tiles.showcase]]
-      title = "Niñas"
-      subtitle = "Fotografía premiada"
+      title = "Luz y Tinieblas"
+      subtitle = "Campaña para la Clínica Gratuita del Club de Leones"
       image = "pic18.jpg"
       url = "blogs/premio"
 
