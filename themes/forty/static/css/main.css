@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Inconsolata");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 /* Reset */
 
@@ -1617,7 +1617,7 @@
 	}
 
 	body {
-		background: #301206;
+		background: #242943;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1635,7 +1635,7 @@
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Inconsolata", Helvetica, sans-serif;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
@@ -1771,7 +1771,7 @@
 
 	code {
 		background: rgba(212, 212, 255, 0.035);
-		font-family: "Inconsolata", monospace;
+		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -1779,7 +1779,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Inconsolata", monospace;
+		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -1988,7 +1988,7 @@
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: Inconsolata;
+			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2056,7 +2056,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: Inconsolata;
+				font-family: FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2150,7 +2150,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: Inconsolata;
+			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2205,6 +2205,7 @@
 		/* .image.left, .image.right {
 			max-width: 30%;
 		}
+
 			.image.left img, .image.right img {
 				width: 100%;
 			} */
