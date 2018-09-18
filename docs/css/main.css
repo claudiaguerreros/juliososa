@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url(""https://fonts.googleapis.com/css?family=Inconsolata");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 /* Reset */
 
@@ -1617,7 +1617,7 @@
 	}
 
 	body {
-		background: #290F11;
+		background: #242943;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1635,7 +1635,7 @@
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Inconsolata";
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
@@ -1678,11 +1678,11 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #F5E3D3 !important;
+			color: #9bf1ff !important;
 		}
 
 		a:active {
-			color: #EADOBF !important;
+			color: #53e3fb !important;
 		}
 
 	strong, b {
@@ -1771,7 +1771,7 @@
 
 	code {
 		background: rgba(212, 212, 255, 0.035);
-		font-family: "Inconsolata";
+		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -1779,7 +1779,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Inconsolata";
+		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -1975,8 +1975,8 @@
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #F5E3D3;
-			box-shadow: 0 0 0 2px #F5E3D3;
+			border-color: #9bf1ff;
+			box-shadow: 0 0 0 2px #9bf1ff;
 		}
 
 	.select-wrapper {
@@ -1988,7 +1988,7 @@
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: Inconsolata;
+			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2056,7 +2056,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: Inconsolata;
+				font-family: FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2080,14 +2080,14 @@
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
-			border-color: #F5E3D3;
+			border-color: #9bf1ff;
 			content: '\f00c';
-			color: #290F11;
+			color: #242943;
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #F5E3D3;
+			box-shadow: 0 0 0 2px #9bf1ff;
 		}
 
 	input[type="radio"] + label:before {
@@ -2163,7 +2163,7 @@
 		.icon.alt:before {
 			background-color: #ffffff;
 			border-radius: 100%;
-			color: #290F11;
+			color: #242943;
 			display: inline-block;
 			height: 2em;
 			line-height: 2em;
@@ -2179,11 +2179,11 @@
 	}
 
 	a.icon.alt:hover:before {
-		background-color: #COAC99;
+		background-color: #6fc3df;
 	}
 
 	a.icon.alt:active:before {
-		background-color: #E9D1C2;
+		background-color: #37a6cb;
 	}
 
 /* Image */
@@ -2404,16 +2404,16 @@
 
 					ul.pagination li > .page.active {
 						background-color: #ffffff;
-						color: #290F11;
+						color: #242943;
 					}
 
 						ul.pagination li > .page.active:hover {
-							background-color: #F5E3D3;
-							color: #290F11 !important;
+							background-color: #9bf1ff;
+							color: #242943 !important;
 						}
 
 						ul.pagination li > .page.active:active {
-							background-color: #EADOBF;
+							background-color: #53e3fb;
 						}
 
 				ul.pagination li:first-child {
@@ -2561,8 +2561,8 @@
 		button:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 2px #F5E3D3;
-			color: #F5E3D3;
+			box-shadow: inset 0 0 0 2px #9bf1ff;
+			color: #9bf1ff;
 		}
 
 		input[type="submit"]:active,
@@ -2571,8 +2571,8 @@
 		button:active,
 		.button:active {
 			background-color: rgba(155, 241, 255, 0.1);
-			box-shadow: inset 0 0 0 2px #EADOBF;
-			color: #EADOBF;
+			box-shadow: inset 0 0 0 2px #53e3fb;
+			color: #53e3fb;
 		}
 
 		input[type="submit"].icon:before,
@@ -2695,7 +2695,7 @@
 		.button.special {
 			background-color: #ffffff;
 			box-shadow: none;
-			color: #290F11;
+			color: #242943;
 		}
 
 			input[type="submit"].special:hover, input[type="submit"].special:active,
@@ -2707,8 +2707,8 @@
 			button.special:active,
 			.button.special:hover,
 			.button.special:active {
-				background-color: #F5E3D3;
-				color: #290F11 !important;
+				background-color: #9bf1ff;
+				color: #242943 !important;
 			}
 
 			input[type="submit"].special:active,
@@ -2716,7 +2716,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #EADOBF;
+				background-color: #53e3fb;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2856,27 +2856,27 @@
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #COAC99;
+				background-color: #6fc3df;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #C0AC99;
+				background-color: #8d82c4;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #CCAC99;
+				background-color: #ec8d81;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #7C574B;
+				background-color: #e7b788;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
-				background-color: #EADOBF;
+				background-color: #8ea9e8;
 			}
 
 			.tiles article:nth-child(6n):before {
-				background-color: #CCAC99;
+				background-color: #87c5a4;
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -2963,7 +2963,7 @@
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #0A0100;
+			background-color: #2e3450;
 		}
 
 			.spotlights > section > .image {
@@ -3025,7 +3025,7 @@
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #151822;
+				background-color: #333856;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3139,7 +3139,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #332E31;
+		background-color: #2a2f4a;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -3170,7 +3170,7 @@
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				background-color: #ffffff;
-				color: #290F11;
+				color: #242943;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3178,11 +3178,11 @@
 			}
 
 			#header .logo:hover strong {
-				background-color: #F5E3D3;
+				background-color: #9bf1ff;
 			}
 
 			#header .logo:active strong {
-				background-color: #EADOBF;
+				background-color: #53e3fb;
 			}
 
 		#header nav {
@@ -3284,27 +3284,27 @@
 		}
 
 			#header.alt.style1 .logo strong {
-				color: #COAC99;
+				color: #6fc3df;
 			}
 
 			#header.alt.style2 .logo strong {
-				color: #C0AC99;
+				color: #8d82c4;
 			}
 
 			#header.alt.style3 .logo strong {
-				color: #CCAC99;
+				color: #ec8d81;
 			}
 
 			#header.alt.style4 .logo strong {
-				color: #7C574B;
+				color: #e7b788;
 			}
 
 			#header.alt.style5 .logo strong {
-				color: #EADOBF;
+				color: #8ea9e8;
 			}
 
 			#header.alt.style6 .logo strong {
-				color: #CCAC99;
+				color: #87c5a4;
 			}
 
 		body.is-loading #header.alt {
@@ -3438,7 +3438,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #290F11;
+			background-color: #242943;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3519,27 +3519,27 @@
 			}
 
 		#banner.style1:after {
-			background-color: #COAC99;
+			background-color: #6fc3df;
 		}
 
 		#banner.style2:after {
-			background-color: #C0AC99;
+			background-color: #8d82c4;
 		}
 
 		#banner.style3:after {
-			background-color: #CCAC99;
+			background-color: #ec8d81;
 		}
 
 		#banner.style4:after {
-			background-color: #7C574B;
+			background-color: #e7b788;
 		}
 
 		#banner.style5:after {
-			background-color: #EADOBF;
+			background-color: #8ea9e8;
 		}
 
 		#banner.style6:after {
-			background-color: #CCAC99;
+			background-color: #87c5a4;
 		}
 
 		body.is-loading #banner:after {
@@ -3617,7 +3617,7 @@
 /* Main */
 
 	#main {
-		background-color: #332E31;
+		background-color: #2a2f4a;
 	}
 
 		#main > * {
