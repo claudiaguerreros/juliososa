@@ -84,7 +84,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Julio Sosa"
-    subtitle = "La Laguna en la mirada de Julio Sosa."
+    subtitle = "Imágenes que construyen la memoria de La Laguna"
     buttonText = "Inicia"
 
 
