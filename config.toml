@@ -55,7 +55,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "J.Sosa"
-      url = "blogs/jsosa"
+      url = "jsosa-html"
 
     [[params.navigation.links]]
       name = "Fondo Julio Sosa"
