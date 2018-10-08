@@ -1,7 +1,7 @@
 ﻿---
 title: "Luz y Tinieblas"
 description: "Campaña para la Clínica Gratuita del Club de Leones"
-slug: "premio"
+slug: "z6"
 image: pic18.jpg
 keywords: ""
 categories: 

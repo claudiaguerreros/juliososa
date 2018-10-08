@@ -1,7 +1,7 @@
 ﻿---
 title: "Capullos"
 description: "Sritas que tomaron parte en las fiestas. Grupo en el Casino Feria del algodón . Torreón coahuila"
-slug: "capullos"
+slug: "d"
 image: pic19.jpg
 keywords: ""
 categories: 

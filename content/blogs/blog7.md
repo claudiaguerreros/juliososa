@@ -1,7 +1,7 @@
 ﻿---
 title: "Gotas de agua"
 description: "Gotas de agua. Sritas que tomaron parte en las fiestas. Grupo en el Casino Feria del algodón . Torreón coahuila"
-slug: "agua"
+slug: "e"
 image: pic04.jpg
 keywords: ""
 categories: 

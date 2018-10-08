@@ -1,7 +1,7 @@
----
+﻿---
 title: "Toro"
 description: "3er premio Boby Nacido en Torreón, 5 años de padres importados Raza Luisa. Edmundo Garza Feria del algodón Torreón Coah. 1925 "
-slug: "toro"
+slug: "p"
 image: pic02.jpg
 keywords: ""
 categories: 

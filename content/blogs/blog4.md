@@ -1,7 +1,7 @@
 ﻿---
 title: "Chinas poblanas y españolas "
 description: "Sritas que tomaron parte en las fiestas. Grupo en el Casino Feria del algodón . Torreón coahuila"
-slug: "etnias"
+slug: "h"
 image: pic17.jpg
 keywords: ""
 categories: 

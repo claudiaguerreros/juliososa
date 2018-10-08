@@ -99,53 +99,55 @@ disqusShortname = ""
       title = "Elvira y sus princesas"
       subtitle = "Su Majestad Elvira I Reina del Algodón de 1925. con sus princesas de Torreón, San Pedro, Matamoros, Gómez Palacio y Lerdo Durango. Torreón Coahuila"
       image = "pic12.jpg"
-      url = "blogs/princesas"
+      url = "blogs/b"
 
-  [[params.tiles.showcase]]
+
+   [[params.tiles.showcase]]
       title = "Capullos"
       subtitle = "Sritas que tomaron parte en las fiestas. Grupo en el Casino Feria del algodón . Torreón coahuila"
       image = "pic19.jpg"
-      url = "blogs/capullos"
-
-
-    [[params.tiles.showcase]]
-      title = "Rayos de sol"
-      subtitle = "Sritas Rayos de Sol en el Casino Torreón 1925"
-      image = "pic20.jpg"
-      url = "blogs/rayos"
+      url = "blogs/d"
 
     
-[[params.tiles.showcase]]
+
+  [[params.tiles.showcase]]
       title = "Pabellón de la Jabonera la Esperanza"
       subtitle = "Paisaje lagunero, río de jabón"
       image = "pic16.jpg"
-      url = "blogs/jabonera"
+      url = "blogs/k"
 
+  
 
-[[params.tiles.showcase]]
-      title = "Leonor Flores"
-      subtitle = "Leonor Flores de Monterrey. NL autora del himno Lagunero Torreón Coahuila 1925"
-      image = "pic14.jpg"
-      url = "blogs/leonor"
+    [[params.tiles.showcase]]
+      title = "Bodas de Oro"
+      subtitle = "Pareja en sus bodas de oro"
+      image = "pic03.jpg"
+      url = "blogs/s"
 
-[[params.tiles.showcase]]
-      title = "Estudebaker 1925"
-      subtitle = "Exhibición del automóvil  EstudebaKer Feria del algodón 1925"
-      image = "pic22.jpg"
-      url = "blogs/auto"
-
-
-[[params.tiles.showcase]]
+    [[params.tiles.showcase]]
       title = "Charro"
       subtitle = "Charro Lagunero"
       image = "pic26.jpg"
       url = "blogs/charro"
 
+    [[params.tiles.showcase]]
+      title = "Retrato al oleo"
+      subtitle = "Fotografía y pintura"
+      image = "pic29.jpg"
+      url = "blogs/z2"
+
+[[params.tiles.showcase]]
+      title = "Niña con sombrero verde"
+      subtitle = "Fotografía a color"
+      image = "pic32.jpg"
+      url = "blogs/z4"
+
+
 [[params.tiles.showcase]]
       title = "Luz y Tinieblas"
       subtitle = "Campaña para la Clínica Gratuita del Club de Leones"
       image = "pic18.jpg"
-      url = "blogs/premio"
+      url = "blogs/z6"
 
 
     # You can make more showcases by copy and pasting the code above

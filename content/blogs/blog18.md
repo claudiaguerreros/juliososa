@@ -1,7 +1,7 @@
----
+﻿---
 title: "Bodas de Oro"
 description: "Aniversario de bodas"
-slug: "bodasoro"
+slug: "s"
 image: pic03.jpg
 keywords: ""
 categories: 

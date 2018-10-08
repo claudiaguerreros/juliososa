@@ -1,7 +1,7 @@
----
+﻿---
 title: "Grupo en exterior"
 description: "Grupo con un mando militar"
-slug: "militar"
+slug: "w"
 image: pic35.jpg
 keywords: ""
 categories: 

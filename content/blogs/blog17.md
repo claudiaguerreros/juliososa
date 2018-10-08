@@ -1,7 +1,7 @@
 ﻿---
 title: "Charros"
 description: "Grupo de Charros en el Cabaret Feria del Algodón 1925"
-slug: "charros"
+slug: "q"
 image: pic24.jpg
 keywords: ""
 categories: 

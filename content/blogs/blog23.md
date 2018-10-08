@@ -1,7 +1,7 @@
----
+﻿---
 title: "Novia con sus damas"
 description: "Estudio fotográfico en sepia, la novia y sus damas de compañía "
-slug: "damas"
+slug: "t"
 image: pic28.jpg
 keywords: ""
 categories: 

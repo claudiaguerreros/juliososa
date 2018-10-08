@@ -1,7 +1,7 @@
----
+﻿---
 title: "Retrato de niña"
 description: "Niña a cuerpo entero"
-slug: "retratonina"
+slug: "x"
 image: pic25.jpg
 keywords: ""
 categories: 

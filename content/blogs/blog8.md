@@ -1,7 +1,7 @@
 ﻿---
 title: "Grupo de aguadoras"
 description: "Grupo de aguadoras. Sritas que tomaron parte en las fiestas. Feria del Algodón Torreón Coah. 1925"
-slug: "aguadoras"
+slug: "g"
 image: pic07.jpg
 keywords: ""
 categories: 

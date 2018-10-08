@@ -1,7 +1,7 @@
----
+﻿---
 title: "Mamá y su bebé"
 description: "Mamá y su bebé"
-slug: "mamabebe"
+slug: "v"
 image: pic09.jpg
 keywords: ""
 categories: 

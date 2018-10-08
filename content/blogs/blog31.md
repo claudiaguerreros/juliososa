@@ -1,7 +1,7 @@
----
+﻿---
 title: "Mujer con aureola"
 description: "Técnica de luz en laboratorio"
-slug: "laboratorio"
+slug: "z5"
 image: pic33.jpg
 keywords: ""
 categories: 

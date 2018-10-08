@@ -1,7 +1,7 @@
 ﻿---
 title: "Compañía del Ferrocarril Eléctrico"
 description: "Portada que da acceso a la Exposición, Feria del algodón 1925"
-slug: "luz"
+slug: "j"
 image: pic06.jpg
 keywords: ""
 categories: 

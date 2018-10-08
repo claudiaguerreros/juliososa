@@ -1,7 +1,7 @@
 ﻿---
 title: "Rayos de sol"
 description: "Sritas Rayos de Sol en el Casino Torreón 1925"
-slug: "rayos"
+slug: "f"
 image: pic20.jpg
 keywords: ""
 categories: 

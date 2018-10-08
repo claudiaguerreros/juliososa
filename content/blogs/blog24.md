@@ -1,7 +1,7 @@
----
+﻿---
 title: "Niña con sombrero"
 description: "Estudio fotográfico coloreado al óleo"
-slug: "nina"
+slug: "z4"
 image: pic32.jpg
 keywords: ""
 categories: 

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Charro"
 description: "Charro lagunero"
-slug: "charro"
+slug: "u"
 image: pic26.jpg
 keywords: ""
 categories: 

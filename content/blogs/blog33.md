@@ -1,7 +1,7 @@
----
+﻿---
 title: "Grupo familiar"
 description: "Familia española, estudio clásico"
-slug: "familia"
+slug: "r"
 image: pic08.jpg
 keywords: ""
 categories: 

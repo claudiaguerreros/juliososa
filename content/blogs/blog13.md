@@ -1,7 +1,7 @@
----
+﻿---
 title: "Hilados La Fe"
 description: "Stand Hilados y Tejidos La Fe"
-slug: "hilados"
+slug: "m"
 image: pic21.jpg
 keywords: ""
 categories: 

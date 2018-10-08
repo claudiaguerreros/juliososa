@@ -1,7 +1,7 @@
 ﻿---
 title: "Elvira I"
 description: ""
-slug: "elvira"
+slug: "a"
 image: pic11.jpg
 keywords: ""
 categories: 

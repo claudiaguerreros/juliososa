@@ -1,7 +1,7 @@
 ﻿---
 title: "Crinolinas"
 description: "Crinolinas. Sritas que tomaron parte en las fiestas. Feria del algodón 1925"
-slug: "crinolinas"
+slug: "i"
 image: pic01.jpg
 keywords: ""
 categories: 

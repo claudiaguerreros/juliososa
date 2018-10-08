@@ -1,7 +1,7 @@
----
+﻿---
 title: "Estudebaker 1925"
 description: "Exhibición del automóvil EstudebaKer y asdrs Feria del algodón 1925"
-slug: "auto"
+slug: "o"
 image: pic22.jpg
 keywords: ""
 categories: 

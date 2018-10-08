@@ -1,7 +1,7 @@
----
+﻿---
 title: "Dama en rebozo"
 description: "Retrato de una dama en rebozo"
-slug: "rebozo"
+slug: "z"
 image: pic05.jpg
 keywords: ""
 categories: 

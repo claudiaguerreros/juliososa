@@ -1,7 +1,7 @@
----
+﻿---
 title: "Río Nazas y sus puentes"
 description: "Pabellón de la exposición. Recreación del paisaje lagunero por excelencia"
-slug: "puentes"
+slug: "k"
 image: pic15.jpg
 keywords: ""
 categories: 

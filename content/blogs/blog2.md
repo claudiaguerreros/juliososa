@@ -2,7 +2,7 @@
 title: "Elvira y sus princesas"
 
 description: "Su Majestad Elvira I Reina del Algodón de 1925. con sus princesas de Torreón, San Pedro, Matamoros, Gómez Palacio y Lerdo Durango. Torreón Coahuila"
-slug: "princesas"
+slug: "b"
 image: pic12.jpg
 keywords: ""
 categories: 

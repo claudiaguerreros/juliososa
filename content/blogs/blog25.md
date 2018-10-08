@@ -1,7 +1,7 @@
----
+﻿---
 title: "Dama al óleo"
 description: "Estudio fotográfico coloreado al óleo moderna"
-slug: "color"
+slug: "z3"
 image: pic30.jpg
 keywords: ""
 categories: 

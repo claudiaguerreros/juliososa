@@ -1,7 +1,7 @@
 ﻿---
 title: "Su Majestad Elvira I"
 description: "Su Majestad Elvira I Reina del Algodón de 1925 de pie, Torreón Caoh."
-slug: "elvira2"
+slug: "c"
 image: pic13.jpg
 keywords: ""
 categories: 

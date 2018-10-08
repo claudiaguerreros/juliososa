@@ -1,7 +1,7 @@
----
+﻿---
 title: "Cervecería Chihuahua"
 description: "Departamento de la Exposición de la Cervecería Chihuahua"
-slug: "cerveceria"
+slug: "n"
 image: pic23.jpg
 keywords: ""
 categories: 

@@ -1,7 +1,7 @@
----
+﻿---
 title: "Retrato señor canoso"
 description: "Manejo de luz, dinamismo en la foto"
-slug: "movimiento"
+slug: "y"
 image: pic34.jpg
 keywords: ""
 categories: 
