@@ -10,18 +10,11 @@ categories:
 date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
-Poco a poco los niños y luego los bebés empezaron a tener presencia social
-Los estudios fotográficos empezaron a estar al alcance de todos.
-el 25 de marzo en el ejemplar del El Siglo de Torreón, aparece una nota en el periódico titulada
 
-"Quien ahora no se retrate es porque se cree feo de más"
+La primera comunión
+Niños y niñas se vestían de blanco —símbolo de pureza— y portaban accesorios que integraban el atuendo. El vestido de las niñas era normalmente de organdí, encaje, con crinolinas y muchas alforzas. 
+Los accesorios consistían en guantes blancos, un limosnero (bolsa de la misma tela que se sujetaba al cinturón), tocado de flores, velo de tul, el libro de primera comunión de tela blanca o con material de concha, un rosario y una vela. 
 
-Julio Sosa organizó un sistema de ordenes fotográficas para que esutvieran al alcance de todos las otografías
-mediante sorteos y aobnos semanales, parecido al que en su tiempo implantó la Zapatería francesa, quienes no resultan
-premiados en los sorteos semanales podrán pagar usu fotos en abonos de un peso semanal.
-
-"Quien ahora no se retrate -nos decía una persona- es porque deveras teme que se rompa la cámara pues francamente
-con estas facilidades dadas por Sosa se podrá tener una fotografía verdaderamente buena, sin que sea sacrificio para nadie"
 
 
 ![Primera comunión niña](https://claudiaguerreros.github.io/juliososa/img/pic31.jpg)
